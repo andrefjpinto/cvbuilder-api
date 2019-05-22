@@ -1,0 +1,14 @@
+/Users/andrefjpinto/development/cvbuilder-api/bin/Debug/netcoreapp2.2/cvbuilder-api.deps.json
+/Users/andrefjpinto/development/cvbuilder-api/bin/Debug/netcoreapp2.2/cvbuilder-api.runtimeconfig.json
+/Users/andrefjpinto/development/cvbuilder-api/bin/Debug/netcoreapp2.2/cvbuilder-api.runtimeconfig.dev.json
+/Users/andrefjpinto/development/cvbuilder-api/bin/Debug/netcoreapp2.2/cvbuilder-api.dll
+/Users/andrefjpinto/development/cvbuilder-api/bin/Debug/netcoreapp2.2/cvbuilder-api.pdb
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.csprojAssemblyReference.cache
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.csproj.CoreCompileInputs.cache
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.RazorAssemblyInfo.cache
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.RazorAssemblyInfo.cs
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.AssemblyInfoInputs.cache
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.AssemblyInfo.cs
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.RazorTargetAssemblyInfo.cache
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.dll
+/Users/andrefjpinto/development/cvbuilder-api/obj/Debug/netcoreapp2.2/cvbuilder-api.pdb
